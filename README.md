@@ -49,7 +49,7 @@ PS: If you have any questions, please feel free to reach out via the [Discussion
 
 
 
-# Schedule and Slides
+# Slides
 
 1. Introduction to Deep Learning & Setup (9:00 - 9:30 am) [🔗 Slides](https://sebastianraschka.com/pdf/pycon2024/01_intro-to-deeplearning_compressed.pdf)
 2. Understanding the PyTorch API (9:30 - 10:00 am) [🔗 Slides](https://sebastianraschka.com/pdf/pycon2024/02_pytorch-api_compressed.pdf)
